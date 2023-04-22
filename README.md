@@ -1,18 +1,18 @@
 # adu-chrome-arrow-keys-extension
+
+## bu eklenti ne işe yarar ?
+- adüzem ders izleme sisteminde ders videolarını izlerken 
+videoları ok tuşları ve space tuşu gibi tuşlar ile 
+yönetemiyoruz. Not tutarken vesaire sürekli mouse ile 
+ikonlara tıklamak can sıkıcı olabiliyor. Bu eklentiyi 
+kurduktan sonra ileri geri ok tuşları ile videoyu ileri 
+geri sarabileceksiniz. "p" tuşu ile de play pause 
+yapabileceksiniz
 ## eklentiyi nasıl kullanırım ?
 
-- chrome tarayıcıya eklentiyi kur. 
+- chrome tarayıcıya eklentiyi kur ==>
 diğer araçlar > uzantılar > paketlenmiş öğe yükle
 - not: geliştirici modunu açmayı unutma.
-
-- eklentiyi bara sabitle
-- herhangi bir ders videosuna gir
-- eklenti arayüzünden execute butonuna bas. 
-- eklenti artık aktif durumda. ok tuşları ile videoyu ileri 
-geri oynatabilir "p" tuşu ile videoyu durdurup oynatabilirsin.
-
-### ! sayfayı her yenilediğinde veya sayfaya her girdiğinde, execute butonuna basman gerekir
-
-bu iş için bir execute butonuna basmak pek mantıklı değil 
-sayfaya girer girmez adüzem dom yapısını manipüle edebiliyor
-olmak daha iyi olur. bir ara yapılabilir...
+- bunlardan sonra bir şey yapman gerekmiyor. ders videolarını 
+kısayollar ile birlikte rahatça izleyebilirsin.
+iyi çalışmalar :)

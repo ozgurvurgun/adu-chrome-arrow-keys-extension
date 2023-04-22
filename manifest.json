@@ -1,18 +1,15 @@
 {
-    "name": "Adu forward backward",
-    "version": "2.0",
-    "manifest_version": 3,
-    "background": {
-        "service_worker": "welcome/background.js"
-    },
-    "action": {
-        "default_popup": "ext/index.html"
-    },
-    "content_scripts": [
-        {
-          "matches": ["<all_urls>"],
-          "js": ["content.js"]
-        }
-    ],
-    "permissions": ["storage","activeTab","declarativeContent"]
-  }
+  "name": "adu injector",
+  "description": "You will be able to control the videos you watch in the aduzem system with the arrow keys and the p key.",
+  "version": "2.0.1",
+  "icons": {
+    "16": "adulogo.png"
+  },
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "matches": ["https://*.adu.edu.tr/*"],
+      "js": ["app.js"]
+    }
+  ]
+}

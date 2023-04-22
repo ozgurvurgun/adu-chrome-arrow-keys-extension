@@ -3,7 +3,7 @@
 
 - chrome tarayıcıya eklentiyi kur. 
 diğer araçlar > uzantılar > paketlenmiş öğe yükle
-not: geliştirici modunu açmayı unutma.
+- not: geliştirici modunu açmayı unutma.
 
 - eklentiyi bara sabitle
 - herhangi bir ders videosuna gir

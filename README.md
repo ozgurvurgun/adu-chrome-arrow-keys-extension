@@ -29,10 +29,10 @@
 
 ## kısayollar
 
-<p> geri sarma <span style="border:1px solid black; padding:5px;border-radius:2px;">&larr;</span>
+<p> geri sarma <span style="border:1px solid black; padding:5px;border-radius:2px;background-color:grey">&larr;</span>
 </p>
-<p>ileri sarma <span style="border:1px solid black; padding:5px;border-radius:2px;">&rarr;</span>
+<p>ileri sarma <span style="border:1px solid black; padding:5px;border-radius:2px;background-color:grey">&rarr;</span>
 </p>
-<p> play / pause <span style="border:1px solid black; padding:5px 10px;border-radius:2px;">P</span>
+<p> play / pause <span style="border:1px solid black; padding:5px 10px;border-radius:2px;background-color:grey">P</span>
 </p>
-<p> small screen / large screen <span style="border:1px solid black; padding:5px 10PX;border-radius:2px;">F</span></p>
+<p> small screen / large screen <span style="border:1px solid black; padding:5px 10px;border-radius:2px;background-color:grey;">F</span></p>

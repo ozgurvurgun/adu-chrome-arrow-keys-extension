@@ -27,4 +27,4 @@
 ## <table><td>geri sarma</td><td>⬅️</td></table>
 ## <table><td>ileri sarma</td><td>➡️</td></table>
 ## <table><td>play / pause</td><td>P</td></table>
-## <table><td>geri sarma</td><td>F</td></table>
+## <table><td>small screen / large screen</td><td>F</td></table>

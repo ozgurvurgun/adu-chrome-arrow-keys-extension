@@ -1,10 +1,5 @@
-<style>
-    .border1{
-        border:1px solid black;
-        padding:5px;
-        border-radius:2px;
-    }
-</style>
+<link rel="stylesheet" href="readme.css">
+
 
 # adu-chrome-arrow-keys-extension
 
@@ -27,12 +22,9 @@
   kısayollar ile birlikte rahatça izleyebilirsin.
   iyi çalışmalar :)
 
-## kısayollar
+# kısayollar
 
-<p> geri sarma <span style="border:1px solid black; padding:5px;border-radius:2px;background-color:grey">&larr;</span>
-</p>
-<p>ileri sarma <span style="border:1px solid black; padding:5px;border-radius:2px;background-color:grey">&rarr;</span>
-</p>
-<p> play / pause <span style="border:1px solid black; padding:5px 10px;border-radius:2px;background-color:grey">P</span>
-</p>
-<p> small screen / large screen <span style="border:1px solid black; padding:5px 10px;border-radius:2px;background-color:grey;">F</span></p>
+## <table><td>geri sarma</td><td>⬅️</td></table>
+## <table><td>ileri sarma</td><td>➡️</td></table>
+## <table><td>play / pause</td><td>P</td></table>
+## <table><td>geri sarma</td><td>F</td></table>
